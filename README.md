@@ -12,7 +12,7 @@ Para iniciar a aplicação basta executar o arquivo main.java passando como par�
 
 ## 📋  Estrutura
 
-Tipos de iphone: IPHONE_7, IPHONE_8 ou IPHONE_X-X
+Tipos de iphone: IPHONE_7, IPHONE_8 ou IPHONE_X
 Tipos de Apps:  Aparelho Telefônico, Navegador de Internet, Reprodutor Musical
 
 **Obs: consultar arquivo IML para mais informações**
